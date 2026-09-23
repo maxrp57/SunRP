@@ -1,0 +1,6 @@
+{
+  "name": "Discord Bot Messenger",
+  "description": "Connectez votre bot Discord, invitez-le sur vos serveurs et envoyez des messages et annonces dans les salons de votre choix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
